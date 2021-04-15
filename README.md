@@ -1,8 +1,8 @@
 # Java_Project-For_Learning-
 This Repository is for java_project learning concept like thread, multithread, etc...
 
-<<<<<<< HEAD
-* 스레드 개념
+
+# 스레드 개념
 
 스레드 : 순서대로 하나씩 처리 되는 것이 기본, 한 가닥 실과 같은 흐름이 존재
 
@@ -19,7 +19,7 @@ class Sum {
         sum += i;
 
         System.out.println(sum);
-        
+
     }
 }
 
