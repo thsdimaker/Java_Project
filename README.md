@@ -2,6 +2,10 @@
 This Repository is for java_project learning concept like thread, multithread, etc...
 
 
+## 프로젝트 개요
+- A 부터 Z까지의 영문 알파벳 출력과 동시에 0부터 9까지의 숫자를 출력하는 일을 동시에 하는 멀티 스레드 프로그램
+
+
 # 스레드 개념
 
 스레드 : 순서대로 하나씩 처리 되는 것이 기본, 한 가닥 실과 같은 흐름이 존재
