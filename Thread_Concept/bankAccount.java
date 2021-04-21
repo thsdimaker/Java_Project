@@ -1,3 +1,5 @@
+// Start date : 2021-04-20
+
 class Main {  
     public static void main(String args[]) { 
       SharedArea area = new SharedArea();
