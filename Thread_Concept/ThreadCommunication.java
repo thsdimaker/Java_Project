@@ -17,7 +17,7 @@ class Main {
 // 공유 영역 클래스
 class SharedArea {
   double result;
-  boolean isReady;
+  boolean isReady; /* 공유 데이터가 쓰엿는지 확인 default : false */
 }
 
 class CalcThread extends Thread {
