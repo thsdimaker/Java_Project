@@ -1,4 +1,9 @@
 // Start date : 2021-04-20
+// Worst case 에 대한 예시
+// 항상 3000만원이 출력 되어야 하지만 2900만원이 출력 된 경우가 존재
+// 김김김의 계좌에서 인출된 100만원이 님님님의 계좌로 입금되기 전에 PrintThread로 실행의 제어가 넘어갔기 때문에
+// TransferThread 클래스의 다음 부분은 Critical Section
+
 
 class Main {  
     public static void main(String args[]) { 
