@@ -1,6 +1,6 @@
 // 프로그램에서 말하는 동기화? - > 공유 데이터 사용 중에 그 공유 데이터를 다른 스레드가 사용하지 못하도록 만들기.
 // Critical Section 부분을 동기화 하기 위해 - > syncrhonized() 라는 키워드를 이용한다.
-
+// End : 20210429
 class Main {  
     public static void main(String args[]) { 
       SharedArea area = new SharedArea();
